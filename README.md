@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
 
 <p>Welcome to my github page! </br> I'm Quang Anh, A Backend developer from <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/vn.svg" width="13"> <b>Hanoi, Vietnam</b></p>
 <h3>Technologies that i use:</h3>
